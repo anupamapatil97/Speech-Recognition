@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #eee;
+}
+button{
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+}
+i{
+    padding: 10px;
+}
